@@ -1,0 +1,1 @@
+# strict-1st-part
